@@ -7,22 +7,6 @@ Registration Page: Lets users create a new account.
 Account Overview Page: Displays the logged-in user's account details with an option to edit them.
 Edit Account Details: Users can edit their account information.
 Back to Login Button: A button in the account overview page that takes users back to the login page.
-Project Structure
-java
-Copy code
-├── public
-│   └── index.html
-├── src
-│   ├── components
-│   │   ├── LoginPage.js
-│   │   ├── RegistrationPage.js
-│   │   ├── AccountPage.js
-│   │   ├── AccountOverviewPage.js
-│   ├── App.js
-│   ├── index.js
-│   └── App.css
-├── README.md
-└── package.json
 Technologies Used
 React (v16+)
 React Router DOM: For routing between the login, registration, and account pages.
