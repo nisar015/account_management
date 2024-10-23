@@ -1,3 +1,4 @@
+Note:Use hardcoded email and password.
 React Account Management Application
 This project is a simple Account Management System built using React (v16+) and React Router DOM for routing. The application allows users to register an account, log in, and view or edit their account information. It also features navigation between pages and basic form validation.
 
